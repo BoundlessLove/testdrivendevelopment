@@ -1,0 +1,5 @@
+com\thesarnas\cosmossql\CosmosSqlController.class
+com\thesarnas\cosmossql\DataLoader.class
+com\thesarnas\cosmossql\User.class
+com\thesarnas\cosmossql\CosmosSqlApplication.class
+com\thesarnas\cosmossql\UserRepository.class
